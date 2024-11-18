@@ -56,12 +56,11 @@ header span {
     /*  TODO */
     display: flex;
     flex-wrap: wrap;
-    padding:10px;
     justify-content:space-between;
 }
 .video {
-
    /*  TODO */
+    padding:10px;
     padding-top: 20px;
 }
 .video-thumbnail img {
